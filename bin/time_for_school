@@ -31,4 +31,3 @@ puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' fr
 
 iskra.learn(some_knowledge)
 puts "Iskra just learned this important knowledge: '#{iskra.knowledge.first}' from Avi"
-
